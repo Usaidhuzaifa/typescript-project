@@ -1,0 +1,26 @@
+{
+  "name": "project-03-todo_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usaidhuzaifa/typescript-project.git"
+  },
+  "author": "UsasidHuzaifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usaidhuzaifa/typescript-project/issues"
+  },
+  "homepage": "https://github.com/Usaidhuzaifa/typescript-project#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
